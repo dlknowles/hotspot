@@ -1,0 +1,5 @@
+C:\Users\ctcrrmcidlk\Documents\Visual Studio 2010\Projects\HotSpotPrototype\HotSpotPrototype\bin\HotSpotPrototype.dll
+C:\Users\ctcrrmcidlk\Documents\Visual Studio 2010\Projects\HotSpotPrototype\HotSpotPrototype\bin\HotSpotPrototype.pdb
+C:\Users\ctcrrmcidlk\Documents\Visual Studio 2010\Projects\HotSpotPrototype\HotSpotPrototype\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ctcrrmcidlk\Documents\Visual Studio 2010\Projects\HotSpotPrototype\HotSpotPrototype\obj\Debug\HotSpotPrototype.dll
+C:\Users\ctcrrmcidlk\Documents\Visual Studio 2010\Projects\HotSpotPrototype\HotSpotPrototype\obj\Debug\HotSpotPrototype.pdb

@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="HotSpotPrototype.Main" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Demo</title>
+
+    <link href="css/main.css" rel="Stylesheet" />
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <![endif]-->
+    
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="site_wrapper">
+        <header id="site_header">
+            <h1>Demo</h1>
+        </header>
+        <nav id="site_navigation">
+            <ul>
+                <li>
+                    <a href="Default.aspx">View Image</a>
+                </li>
+                <li>
+                    <a href="AddEditHotspot.aspx">Add/Edit Hotspot</a>
+                </li>
+            </ul>
+        </nav>
+        <section id="site_content">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </section>
+
+        <footer id="site_footer">
+        
+        </footer>
+    </div>
+    </form>
+</body>
+</html>
